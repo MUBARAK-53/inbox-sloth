@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 .venv/
+
+sloth_history.db
