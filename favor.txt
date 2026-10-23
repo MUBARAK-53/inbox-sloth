@@ -1,0 +1,2 @@
+Hey, do you happen to have the link to the latest design doc?
+I'm trying to review the API specs before the sync.

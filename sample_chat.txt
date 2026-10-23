@@ -1,0 +1,5 @@
+Hey did anyone fix the image upload bug on the staging server yet?
+I checked the logs, it looks like S3 credentials expired around midnight.
+Also who is bringing the projector for today's presentation at 3 PM?
+I can bring the slides on a USB drive, but I don't have a projector.
+Can someone confirm before 1 PM?

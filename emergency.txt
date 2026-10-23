@@ -1,0 +1,3 @@
+CRITICAL: The payment gateway is down and throwing 500 errors!
+Who can look at the server logs right now, this is broken in production!
+We need an immediate fix before customers start losing transactions.
